@@ -79,11 +79,4 @@ todo-list/
 ├── frontend/     # Código do frontend (Vue.js)
 ```
 
-## Variáveis de Ambiente
-
-- O arquivo `backend/.env.example` serve como modelo para configuração das variáveis do backend.
-- Não envie o arquivo `.env` real para o repositório.
-
----
-
 **Desenvolvido por:** Bruno D.
